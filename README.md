@@ -2,7 +2,7 @@
 
 - 💼 Atualmente trabalho com contabilidade exercendo a função de Analista Contábil
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
-- 😄 Estudando Python, SQL, HTML, CSS e aperfeiçoando meus os conhecimentos em Excel
+- 😄 Estudando Python, SQL, Power BI e Excel
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
